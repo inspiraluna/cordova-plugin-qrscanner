@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-qrscanner",
+  "name": "cordova-plugin-qrscanner-inspiraluna",
   "version": "3.0.2",
   "description": "Fast, energy-efficient, highly-configurable QR code scanner.",
   "cordova": {
-    "id": "cordova-plugin-qrscanner",
+    "id": "cordova-plugin-qrscanner-inspiraluna",
     "platforms": [
       "ios",
       "android"
